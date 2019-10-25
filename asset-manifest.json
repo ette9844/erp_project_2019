@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/erp_project_2019/static/css/main.41e94bf7.chunk.css",
-    "main.js": "/erp_project_2019/static/js/main.a5ad59f9.chunk.js",
-    "main.js.map": "/erp_project_2019/static/js/main.a5ad59f9.chunk.js.map",
+    "main.js": "/erp_project_2019/static/js/main.6bc7a1b2.chunk.js",
+    "main.js.map": "/erp_project_2019/static/js/main.6bc7a1b2.chunk.js.map",
     "runtime-main.js": "/erp_project_2019/static/js/runtime-main.a0edc214.js",
     "runtime-main.js.map": "/erp_project_2019/static/js/runtime-main.a0edc214.js.map",
     "static/js/2.fd63e479.chunk.js": "/erp_project_2019/static/js/2.fd63e479.chunk.js",
     "static/js/2.fd63e479.chunk.js.map": "/erp_project_2019/static/js/2.fd63e479.chunk.js.map",
     "index.html": "/erp_project_2019/index.html",
-    "precache-manifest.41798f7ba93093e423c12b27575c4cf6.js": "/erp_project_2019/precache-manifest.41798f7ba93093e423c12b27575c4cf6.js",
+    "precache-manifest.ae3b925b7232ebadd9b419bc5acf0e54.js": "/erp_project_2019/precache-manifest.ae3b925b7232ebadd9b419bc5acf0e54.js",
     "service-worker.js": "/erp_project_2019/service-worker.js",
     "static/css/main.41e94bf7.chunk.css.map": "/erp_project_2019/static/css/main.41e94bf7.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.a0edc214.js",
     "static/js/2.fd63e479.chunk.js",
     "static/css/main.41e94bf7.chunk.css",
-    "static/js/main.a5ad59f9.chunk.js"
+    "static/js/main.6bc7a1b2.chunk.js"
   ]
 }
